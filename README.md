@@ -1,4 +1,7 @@
 # github-secret-spreader-template
-Template repository for setting up GitHub Actions Secrets Management with webfactory/gibhub-secret-spreader
+Template repository for setting up GitHub Actions Secrets Management with webfactory/gibhub-secret-spreader.
 
-Clone using `git clone --recursive git@github.com:webfactory/github-secret-spreader-template.git`
+Create your own, personal, *private* fork of this repo with the "Use this template" button above.
+
+Then, clone your fork using `git clone --recursive <URL-of-your-fork>`.
+
