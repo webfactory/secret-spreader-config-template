@@ -4,5 +4,6 @@ Template repository for setting up GitHub Actions Secrets Management with [webfa
 
 Create your own, personal, *private* fork of this repo with the "Use this template" button above.
 
-Then, clone your fork using `git clone --recursive <URL-of-your-fork>`.
+See the [README over at webfactory/secret-spreader](https://github.com/webfactory/secret-spreader/blob/master/README.md) for full details.
+
 
