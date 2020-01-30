@@ -1,5 +1,6 @@
-# github-secret-spreader-template
-Template repository for setting up GitHub Actions Secrets Management with webfactory/gibhub-secret-spreader.
+# Configuration Repository Template for `secret-spreader`
+
+Template repository for setting up GitHub Actions Secrets Management with [webfactory/secret-spreader](https://github.com/webfactory/secret-spreader).
 
 Create your own, personal, *private* fork of this repo with the "Use this template" button above.
 
